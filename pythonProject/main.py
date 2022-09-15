@@ -13,4 +13,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+def print_hell(Test):
+    print(f'Hi,{Test}')
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
